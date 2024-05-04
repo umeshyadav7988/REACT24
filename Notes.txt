@@ -1,0 +1,61 @@
+#what is react?
+1.react is javascript liberary 
+2.the main focus is building UI as fast as possible
+3.so this is used to single page application
+4.means complete website in single page.
+
+#why react is fast?
+1.React use virtual dom
+
+#why learn react ?
+1.highly demand due to fast speed
+2.large community for your support 
+3.mobile app development with react-native
+
+#Apps with react is :
+Netflix,whatsapp web,Instagram,Airbnb
+
+#Package.json file in details
+it contains all information->version,liberary,commands all information are here.
+it is the most important file.
+
+#Components in React
+what is Components in react?
+1.A piece of code that can reuse.
+2.such as function
+3.but more powerful than function
+4.header, footer is best example.
+
+Components types?
+1.functional Components.
+2.class Components.
+3.HOC(higher order Components)
+4.pure Components.
+5.controlled Components.
+6.uncontrolled Components.
+
+#JSX  with React
+javascript xml(JSX)
+write HTML and javascript together
+
+#State in functional Components
+state is like a variable in which we are stored data.
+using varible Components are not updates so why we need to use state.
+using variable we are not update data.
+
+#useState->useState is a React Hook that lets you add a state variable to your component.
+
+useState->useState is basically hook hota hai jo hume allow karta hai state ko maintain krne ke liye.
+varibal use krte hain to rerender nahi hota hai vo freeze rehta hai isliye hum state ka use krte hai.
+
+
+#Props with functional Components
+Props means properties.
+Props are a way of passing data from parent to child components in React.
+They are immutable and are used to communicate between components.
+
+
+
+
+
+ 
