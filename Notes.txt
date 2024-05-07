@@ -5,7 +5,7 @@
 4.means complete website in single page.
 
 #why react is fast?
-1.React use virtual dom
+1.React use virtual  dom
 
 #why learn react ?
 1.highly demand due to fast speed
