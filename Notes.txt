@@ -15,7 +15,7 @@
 #Apps with react is :
 Netflix,whatsapp web,Instagram,Airbnb
 
-#Package.json file in details
+#Package.json file in  details
 it contains all information->version,liberary,commands all information are here.
 it is the most important file.
 
